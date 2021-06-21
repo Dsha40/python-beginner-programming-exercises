@@ -8,5 +8,5 @@ print(my_super_variable)
 
 ## 📝 Instrucciones:
 
-1. Declara una nueva variable llamada **color** y asínale el valor "red".
+1. Declara una nueva variable llamada **color** y asígnale el valor "red".
 2. Luego, imprime su valor en la consola (puede que tengas que desplazarte en la consola para poder verlo)
